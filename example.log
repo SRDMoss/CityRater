@@ -1,0 +1,661 @@
+INFO:root:Site: https://en.wikipedia.org/wiki/Tokyo
+INFO:root:Accepted - • Total: 13988129
+INFO:root:Accepted - • Urban: 39105000
+INFO:root:Accepted - • Metro[5]: 40700000
+INFO:root:Population: 40700000
+INFO:root:Site: https://en.wikipedia.org/wiki/Jakarta
+INFO:root:Accepted - • Special Capital Region: 10562088
+INFO:root:Accepted - • Urban[4]: 34540000
+INFO:root:Accepted - • Metro[5]: 33430285
+INFO:root:Population: 33430285
+INFO:root:Site: https://en.wikipedia.org/wiki/Delhi
+INFO:root:Accepted - • Union territory: 16787941
+INFO:root:Accepted - • Urban[7]: 16349831
+INFO:root:Accepted - • Megacity[6]: 11034555
+INFO:root:Accepted - • Metro (includes part of NCR (2018)[8]: 28514000
+INFO:root:Population: 28514000
+INFO:root:Site: https://en.wikipedia.org/wiki/Manila
+INFO:root:Accepted - • Electorate: 1133042
+INFO:root:Accepted - • City: 1846513
+INFO:root:Accepted - • Metro: 13484482
+INFO:root:Accepted - • Households: 486293
+INFO:root:Population: 13484482
+INFO:root:Site: https://en.wikipedia.org/wiki/S%C3%A3o_Paulo
+INFO:root:Accepted - Population (2020)[2][3]: 12400232
+INFO:root:Population: 12400232
+INFO:root:Site: https://en.wikipedia.org/wiki/Seoul
+INFO:root:Accepted - • Special city: 9443722
+INFO:root:Population: 9443722
+INFO:root:Site: https://en.wikipedia.org/wiki/Mumbai
+INFO:root:Accepted - • Megacity: 12478447
+INFO:root:Accepted - • Metro[9]: 18414288
+INFO:root:Population: 18414288
+INFO:root:Site: https://en.wikipedia.org/wiki/Shanghai
+INFO:root:Accepted - • Municipality: 24870895
+INFO:root:Accepted - • Metro: 41354149
+INFO:root:Population: 41354149
+INFO:root:Site: https://en.wikipedia.org/wiki/Mexico_City
+INFO:root:Accepted - • Total: 9209944
+INFO:root:Accepted - • Metro area: 21804515
+INFO:root:Population: 21804515
+INFO:root:Site: https://en.wikipedia.org/wiki/Guangzhou
+INFO:root:Accepted - • Prefecture-level and subprovincial city: 18676605
+INFO:root:Accepted - • Urban[3]: 16492590
+INFO:root:Accepted - Postal code: 510000
+INFO:root:Population: 18676605
+INFO:root:Site: https://en.wikipedia.org/wiki/Cairo
+INFO:root:Accepted - • Capital city: 10100166
+INFO:root:Accepted - • Metro[4]: 22200000
+INFO:root:Population: 22200000
+INFO:root:Site: https://en.wikipedia.org/wiki/Beijing
+INFO:root:Accepted - • Municipality: 21893095
+INFO:root:Accepted - • Urban: 21893095
+INFO:root:Accepted - • Metro: 22366547
+INFO:root:Population: 22366547
+INFO:root:Site: https://en.wikipedia.org/wiki/New_York_City
+INFO:root:Accepted - • Total: 8804190
+INFO:root:Accepted - • Estimate (July 2021)[5]: 8467513
+INFO:root:Accepted - • Urban[6]: 19426449
+INFO:root:Accepted - • Metro[7]: 20140470
+INFO:root:Accepted - GNIS feature ID: 975772
+INFO:root:Population: 20140470
+INFO:root:Site: https://en.wikipedia.org/wiki/Kolkata
+INFO:root:Accepted - • Megacity: 4496694
+INFO:root:Population: 4496694
+INFO:root:Site: https://en.wikipedia.org/wiki/Moscow
+INFO:root:Accepted - • Total: 13010112
+INFO:root:Accepted - • Urban[7]: 17000000
+INFO:root:Population: 17000000
+INFO:root:Site: https://en.wikipedia.org/wiki/Bangkok
+INFO:root:Accepted - • City: 8305218
+INFO:root:Accepted - • Estimate (2020)[5]: 10539000
+INFO:root:Accepted - • Metro: 14626225
+INFO:root:Population: 14626225
+INFO:root:Site: https://en.wikipedia.org/wiki/Dhaka
+INFO:root:Accepted - • Megacity: 10278882
+INFO:root:Accepted - • Metro: 22478116
+INFO:root:Population: 22478116
+INFO:root:Site: https://en.wikipedia.org/wiki/Buenos_Aires
+INFO:root:Accepted - • Urban: 3120612
+INFO:root:Accepted - • Metro: 15624000
+INFO:root:Population: 15624000
+INFO:root:Site: https://en.wikipedia.org/wiki/Osaka
+INFO:root:Accepted - • Designated city: 2753862
+INFO:root:Accepted - • Metro[3] (2nd): 19303000
+INFO:root:Population: 19303000
+INFO:root:Site: https://en.wikipedia.org/wiki/Lagos
+INFO:root:Accepted - • Metropolis: 8048430
+INFO:root:Accepted - • Estimate (2018 by LASG[6]): 16437435
+INFO:root:Accepted - • Metro: 13320000
+INFO:root:Population: 8048430
+INFO:root:Site: https://en.wikipedia.org/wiki/Istanbul
+INFO:root:Accepted - • Metropolitan municipality and province: 15907951
+INFO:root:Accepted - • Urban: 15569856
+INFO:root:Population: 15907951
+INFO:root:Site: https://en.wikipedia.org/wiki/Karachi
+INFO:root:Accepted - • City: 14916456
+INFO:root:Accepted - • Metro: 16051521
+INFO:root:Population: 16051521
+INFO:root:Site: https://en.wikipedia.org/wiki/Kinshasa
+INFO:root:Accepted - • Urban[4]: 16316000
+INFO:root:Accepted - • Metro: 17239463
+INFO:root:Population: 17239463
+INFO:root:Site: https://en.wikipedia.org/wiki/Shenzhen
+INFO:root:Accepted - • Prefecture-level and sub-provincial city: 17560000
+INFO:root:Accepted - • Urban (2021)[3]: 14678000
+INFO:root:Accepted - • Metro (2010)[4]: 23300000
+INFO:root:Accepted - Postal code: 518000
+INFO:root:Population: 17560000
+INFO:root:Site: https://en.wikipedia.org/wiki/Bangalore
+INFO:root:Accepted - • Megacity: 8443675
+INFO:root:Accepted - • Urban[8]: 10456000
+INFO:root:Population: 10456000
+INFO:root:Site: https://en.wikipedia.org/wiki/Ho_Chi_Minh_City
+INFO:root:Accepted - • Municipality: 8993082
+INFO:root:Accepted - • Metro: 21281639
+INFO:root:Population: 21281639
+INFO:root:Site: https://en.wikipedia.org/wiki/Tehran
+INFO:root:Accepted - • Estimate ({{{pop_est_as_of}}}): 9400000
+INFO:root:Population: 9400000
+INFO:root:Site: https://en.wikipedia.org/wiki/Los_Angeles
+INFO:root:Accepted - • Total: 3898747
+INFO:root:Accepted - • Estimate (2021)[7]: 3849297
+INFO:root:Accepted - • Urban[8]: 12237376
+INFO:root:Accepted - • Metro[9]: 13200998
+INFO:root:Accepted - GNIS feature IDs: 1662328
+INFO:root:Population: 13200998
+INFO:root:Site: https://en.wikipedia.org/wiki/Rio_de_Janeiro
+INFO:root:Accepted - • Municipality: 6747815
+INFO:root:Accepted - • Urban: 11616000
+INFO:root:Accepted - • Metro: 12280702
+INFO:root:Population: 12280702
+INFO:root:Site: https://en.wikipedia.org/wiki/Chengdu
+INFO:root:Accepted - • Prefecture-level and sub-provincial city: 20937757
+INFO:root:Accepted - • Urban: 15419445
+INFO:root:Accepted - • Metro: 16045577
+INFO:root:Population: 20937757
+INFO:root:Site: https://en.wikipedia.org/wiki/Baoding
+INFO:root:Accepted - • Prefecture-level city: 11194382
+INFO:root:Accepted - • Urban[2]: 1976000
+INFO:root:Accepted - • Metro: 2176857
+INFO:root:Population: 11194382
+INFO:root:Site: https://en.wikipedia.org/wiki/Chennai
+INFO:root:Accepted - • Metropolis: 12395000
+INFO:root:Population: 12395000
+INFO:root:Site: https://en.wikipedia.org/wiki/Lahore
+INFO:root:Accepted - • Total: 11126285
+INFO:root:Population: 11126285
+INFO:root:Site: https://en.wikipedia.org/wiki/London
+INFO:root:Accepted - • Urban (2011)[4]: 9787426
+INFO:root:Accepted - • Metro (2019)[5]: 14257962
+INFO:root:Population: 14257962
+INFO:root:Site: https://en.wikipedia.org/wiki/Paris
+INFO:root:Accepted - Population (Jan. 2020)[2]: 2145906
+INFO:root:Accepted - • Urban (2019[3]): 10858852
+INFO:root:Accepted - • Metro (Jan. 2017[4]): 13024518
+INFO:root:Population: 13024518
+INFO:root:Site: https://en.wikipedia.org/wiki/Tianjin
+INFO:root:Accepted - • Municipality: 13866009
+INFO:root:Accepted - • Urban: 13866009
+INFO:root:Accepted - • Metro: 11165706
+INFO:root:Accepted - Postal code: 300000
+INFO:root:Population: 11165706
+INFO:root:Site: https://en.wikipedia.org/wiki/Linyi
+INFO:root:Accepted - • Prefecture-level city: 11018365
+INFO:root:Accepted - • Urban: 3651868
+INFO:root:Accepted - • Metro: 3651868
+INFO:root:Accepted - Administrative division code: 371300
+INFO:root:Population: 11018365
+INFO:root:Site: https://en.wikipedia.org/wiki/Shijiazhuang
+INFO:root:Accepted - • Prefecture-level city: 11235086
+INFO:root:Accepted - • Urban: 5758403
+INFO:root:Accepted - • Metro: 6230709
+INFO:root:Population: 11235086
+INFO:root:Site: https://en.wikipedia.org/wiki/Zhengzhou
+INFO:root:Accepted - • Prefecture-level city: 12600574
+INFO:root:Accepted - • Urban: 6650532
+INFO:root:Accepted - • Metro: 10260667
+INFO:root:Accepted - Postal code: 450000
+INFO:root:Population: 12600574
+INFO:root:Site: https://en.wikipedia.org/wiki/Nanyang,_Henan
+INFO:root:Accepted - • Prefecture-level city: 9713112
+INFO:root:Accepted - • Urban: 2085680
+INFO:root:Accepted - • Rural: 7627432
+INFO:root:Accepted - • Metro: 2085680
+INFO:root:Accepted - Postal code: 473000
+INFO:root:Population: 9713112
+INFO:root:Site: https://en.wikipedia.org/wiki/Hyderabad
+INFO:root:Accepted - • City: 6809970
+INFO:root:Accepted - • Estimate (2018)[2]: 9482000
+INFO:root:Accepted - • Urban[3]: 7749334
+INFO:root:Population: 7749334
+INFO:root:Site: https://en.wikipedia.org/wiki/Wuhan
+INFO:root:Accepted - • Prefecture-level & Sub-provincial city: 12326500
+INFO:root:Population: 12326500
+INFO:root:Site: https://en.wikipedia.org/wiki/Handan
+INFO:root:Accepted - • Prefecture-level city: 9433000
+INFO:root:Accepted - • Urban[1]: 2845790
+INFO:root:Accepted - • Districts[1]: 4012000
+INFO:root:Population: 9433000
+INFO:root:Site: https://en.wikipedia.org/wiki/Nagoya
+INFO:root:Accepted - • Designated city: 2331078
+INFO:root:Accepted - • Metro[1]: 10240000
+INFO:root:Population: 10240000
+INFO:root:Site: https://en.wikipedia.org/wiki/Weifang
+INFO:root:Accepted - • Prefecture-level city: 9386705
+INFO:root:Accepted - • Urban: 2511721
+INFO:root:Accepted - • Metro: 3095520
+INFO:root:Population: 9386705
+INFO:root:Site: https://en.wikipedia.org/wiki/Lima
+INFO:root:Accepted - • Urban: 9751717
+INFO:root:Population: 9751717
+INFO:root:Site: https://en.wikipedia.org/wiki/Zhoukou
+INFO:root:Accepted - • Prefecture-level city: 9026015
+INFO:root:Accepted - • Urban: 721300
+INFO:root:Accepted - • Metro: 1601300
+INFO:root:Accepted - Postal code: 466000
+INFO:root:Population: 9026015
+INFO:root:Site: https://en.wikipedia.org/wiki/Luanda
+INFO:root:Accepted - • Metro: 8330000
+INFO:root:Population: 8330000
+INFO:root:Site: https://en.wikipedia.org/wiki/Ganzhou
+INFO:root:Accepted - • Prefecture-level city: 8970014
+INFO:root:Accepted - • Urban: 2588060
+INFO:root:Accepted - • Metro: 2588060
+INFO:root:Accepted - Postal code: 341000
+INFO:root:Accepted - Administrative division code: 360700
+INFO:root:Population: 8970014
+INFO:root:Site: https://en.wikipedia.org/wiki/Tangshan
+INFO:root:Accepted - • Prefecture-level city: 7717983
+INFO:root:Accepted - • Urban: 3687607
+INFO:root:Accepted - • Metro: 3687607
+INFO:root:Population: 7717983
+INFO:root:Site: https://en.wikipedia.org/wiki/Kuala_Lumpur
+INFO:root:Accepted - • Federal territory: 1982112
+INFO:root:Population: 1982112
+INFO:root:Site: https://en.wikipedia.org/wiki/Chicago
+INFO:root:Accepted - • City: 2746388
+INFO:root:Accepted - • Estimate (2021)[3]: 2696555
+INFO:root:Accepted - • Urban[4]: 8671746
+INFO:root:Accepted - • Metro[5]: 9618502
+INFO:root:Accepted - GNIS feature ID: 0428803
+INFO:root:Population: 9618502
+INFO:root:Site: https://en.wikipedia.org/wiki/Heze
+INFO:root:Accepted - • Prefecture-level city: 8287693
+INFO:root:Accepted - • Urban: 1346717
+INFO:root:Accepted - • Metro: 1346717
+INFO:root:Accepted - Postal code: 274000
+INFO:root:Population: 8287693
+INFO:root:Site: https://en.wikipedia.org/wiki/Chongqing
+INFO:root:Accepted - • Municipality: 32054159
+INFO:root:Population: 32054159
+INFO:root:Site: https://en.wikipedia.org/wiki/Hanoi
+INFO:root:Accepted - • Capital city and municipality: 8330800
+INFO:root:Accepted - • Urban[9]: 4095400
+INFO:root:Accepted - • Rural[10]: 4235500
+INFO:root:Accepted - • Metro[6]: 20000000
+INFO:root:Population: 20000000
+INFO:root:Site: https://en.wikipedia.org/wiki/Fuyang#:~:text=Clockwise%20from%20top%3A%20Fuyang%20in,the%20Zi%20Fu%20Chan%20Monastery.
+INFO:root:Accepted - • Prefecture-level city: 8200264
+INFO:root:Accepted - • Urban: 2128538
+INFO:root:Accepted - • Metro: 2128538
+INFO:root:Population: 8200264
+INFO:root:Site: https://en.wikipedia.org/wiki/Changsha
+INFO:root:Accepted - • Urban: 5980707
+INFO:root:Accepted - • Metro: 7355198
+INFO:root:Accepted - Postal code: 410000
+INFO:root:Population: 7355198
+INFO:root:Site: https://en.wikipedia.org/wiki/Dongguan
+INFO:root:Accepted - • Prefecture-level city: 10466625
+INFO:root:Accepted - • Urban: 10466625
+INFO:root:Accepted - Postal code: 523000
+INFO:root:Population: 10466625
+INFO:root:Site: https://en.wikipedia.org/wiki/Jining
+INFO:root:Accepted - • Prefecture-level city: 8081905
+INFO:root:Accepted - • Urban: 1859406
+INFO:root:Accepted - • Metro: 1518000
+INFO:root:Population: 8081905
+INFO:root:Site: https://en.wikipedia.org/wiki/Jinan
+INFO:root:Accepted - • Prefecture-level and sub-provincial city: 9202432
+INFO:root:Accepted - • Urban: 8352574
+INFO:root:Accepted - • Metro: 5452335
+INFO:root:Accepted - Postal code: 250000
+INFO:root:Population: 9202432
+INFO:root:Site: https://en.wikipedia.org/wiki/Pune
+INFO:root:Accepted - • Pune MC[6]: 6200000
+INFO:root:Accepted - • Pune MR[7]: 7276000
+INFO:root:Accepted - PIN Code(s): 411001
+INFO:root:Population: 6200000
+INFO:root:Site: https://en.wikipedia.org/wiki/Foshan
+INFO:root:Accepted - • Prefecture-level city: 9498863
+INFO:root:Accepted - • Urban: 9498693
+INFO:root:Accepted - Postal code: 528000
+INFO:root:Population: 9498863
+INFO:root:Site: https://en.wikipedia.org/wiki/Bogot%C3%A1
+INFO:root:Accepted - • Urban: 7968095
+INFO:root:Population: 7968095
+INFO:root:Site: https://en.wikipedia.org/wiki/Ahmedabad
+INFO:root:Accepted - • Metropolis: 9090000
+INFO:root:Accepted - • Urban[11]: 6357693
+INFO:root:Population: 9090000
+INFO:root:Site: https://en.wikipedia.org/wiki/Nanjing
+INFO:root:Accepted - • Prefecture-level and sub-provincial city: 9314685
+INFO:root:Accepted - • Urban: 9314685
+INFO:root:Accepted - • Metro: 9648136
+INFO:root:Population: 9314685
+INFO:root:Site: https://en.wikipedia.org/wiki/Changchun
+INFO:root:Accepted - • Prefecture-level & Sub-provincial city: 9066906
+INFO:root:Accepted - • Urban: 5691024
+INFO:root:Accepted - • Metro: 5019477
+INFO:root:Accepted - Postal code: 130000
+INFO:root:Population: 9066906
+INFO:root:Site: https://en.wikipedia.org/wiki/Hebei
+INFO:root:Accepted - • Total: 188800
+INFO:root:Population: 188800
+INFO:root:Site: https://en.wikipedia.org/wiki/Cangzhou
+INFO:root:Accepted - • Prefecture-level city: 7300783
+INFO:root:Accepted - • Urban: 795832
+INFO:root:Accepted - • Metro: 1421843
+INFO:root:Population: 7300783
+INFO:root:Site: https://en.wikipedia.org/wiki/Dar_es_Salaam
+INFO:root:Accepted - • Total: 5383728
+INFO:root:Population: 5383728
+INFO:root:Site: https://en.wikipedia.org/wiki/Hefei
+INFO:root:Accepted - • Prefecture-level city: 9465881
+INFO:root:Accepted - • Urban: 5118199
+INFO:root:Accepted - • Metro: 7754481
+INFO:root:Accepted - Postal code: 230000
+INFO:root:Population: 9465881
+INFO:root:Site: https://en.wikipedia.org/wiki/Hong_Kong
+INFO:root:Population: None
+INFO:root:Site: https://en.wikipedia.org/wiki/Handover_of_Hong_Kong
+INFO:root:Population: None
+INFO:root:Site: https://en.wikipedia.org/wiki/History_of_Hong_Kong
+INFO:root:Population: None
+INFO:root:Site: https://en.wikipedia.org/wiki/Hong_Kong_Cantonese
+INFO:root:Population: None
+INFO:root:Site: https://en.wikipedia.org/wiki/Demographics_of_Hong_Kong
+INFO:root:Accepted - Population: 7276588
+INFO:root:Population: 7276588
+INFO:root:Site: https://en.wikipedia.org/wiki/Shaoyang
+INFO:root:Accepted - • Prefecture-level city: 6563520
+INFO:root:Accepted - • Urban: 802230
+INFO:root:Accepted - • Metro: 1415173
+INFO:root:Accepted - Postal code: 422000
+INFO:root:Accepted - Administrative division code: 430500
+INFO:root:Population: 6563520
+INFO:root:Site: https://en.wikipedia.org/wiki/Zhanjiang
+INFO:root:Accepted - • Prefecture-level city: 6981236
+INFO:root:Accepted - • Urban: 1931455
+INFO:root:Accepted - • Metro: 1931455
+INFO:root:Accepted - Postal code: 524000
+INFO:root:Population: 6981236
+INFO:root:Site: https://en.wikipedia.org/wiki/Shangqiu
+INFO:root:Accepted - • Prefecture-level city: 7816831
+INFO:root:Accepted - • Urban: 1859723
+INFO:root:Accepted - • Metro: 2831814
+INFO:root:Accepted - Postal Code: 476000
+INFO:root:Population: 7816831
+INFO:root:Site: https://en.wikipedia.org/wiki/Nantong
+INFO:root:Accepted - • Prefecture-level city: 7726635
+INFO:root:Accepted - • Urban: 3766534
+INFO:root:Accepted - • Metro: 3766534
+INFO:root:Population: 7726635
+INFO:root:Site: https://en.wikipedia.org/wiki/Yancheng
+INFO:root:Accepted - • Prefecture-level city: 7200000
+INFO:root:Accepted - • Urban: 1615717
+INFO:root:Accepted - • Metro: 1615717
+INFO:root:Population: 7200000
+INFO:root:Site: https://en.wikipedia.org/wiki/Nanning
+INFO:root:Accepted - • Prefecture-level city: 8741584
+INFO:root:Accepted - • Urban: 5977185
+INFO:root:Accepted - • Metro: 5293359
+INFO:root:Accepted - Postal code: 530000
+INFO:root:Population: 8741584
+INFO:root:Site: https://en.wikipedia.org/wiki/Hengyang
+INFO:root:Accepted - • Prefecture-level city: 6645243
+INFO:root:Accepted - • Urban: 1361085
+INFO:root:Accepted - • Metro: 1290715
+INFO:root:Accepted - Postal code: 421001
+INFO:root:Population: 6645243
+INFO:root:Site: https://en.wikipedia.org/wiki/Zhumadian
+INFO:root:Accepted - • Prefecture-level city: 7008427
+INFO:root:Accepted - • Urban: 1025543
+INFO:root:Accepted - • Metro: 1466913
+INFO:root:Accepted - Postal code: 463000
+INFO:root:Population: 7008427
+INFO:root:Site: https://en.wikipedia.org/wiki/Shenyang
+INFO:root:Accepted - • Prefecture-level & Sub-provincial city[1]: 9070093
+INFO:root:Accepted - • Urban: 7885142
+INFO:root:Accepted - • Metro: 8192848
+INFO:root:Accepted - Postal code: 110000
+INFO:root:Population: 9070093
+INFO:root:Site: https://en.wikipedia.org/wiki/Xingtai
+INFO:root:Accepted - • Prefecture-level city: 7111106
+INFO:root:Accepted - • Urban[1]: 971300
+INFO:root:Accepted - • Districts[1]: 971000
+INFO:root:Population: 7111106
+INFO:root:Site: https://simple.wikipedia.org/wiki/Shaanxi
+INFO:root:Population: None
+INFO:root:Site: https://en.wikipedia.org/wiki/Xi%27an
+INFO:root:Accepted - • Sub-provincial and prefecture-level city: 12952907
+INFO:root:Accepted - • Urban: 11904805
+INFO:root:Accepted - • Metro: 12283922
+INFO:root:Population: 12952907
+INFO:root:Site: https://en.wikipedia.org/wiki/Santiago
+INFO:root:Accepted - • Capital city: 6269384
+INFO:root:Accepted - • Metro: 6903479
+INFO:root:Accepted - Postal code: 8320000
+INFO:root:Population: 6903479
+INFO:root:Site: https://en.wikipedia.org/wiki/Yantai
+INFO:root:Accepted - • Prefecture-level city: 6968202
+INFO:root:Accepted - • Urban: 2511053
+INFO:root:Accepted - • Metro: 2227733
+INFO:root:Population: 6968202
+INFO:root:Site: https://en.wikipedia.org/wiki/Riyadh
+INFO:root:Accepted - • Total: 7676654
+INFO:root:Population: 7676654
+INFO:root:Site: https://en.wikipedia.org/wiki/Luoyang
+INFO:root:Accepted - • Prefecture-level city: 7056699
+INFO:root:Accepted - • Urban: 2249300
+INFO:root:Accepted - • Metro: 2751400
+INFO:root:Population: 7056699
+INFO:root:Site: https://en.wikipedia.org/wiki/Kunming
+INFO:root:Accepted - • Prefecture-level city: 8460088
+INFO:root:Accepted - • Urban: 5950578
+INFO:root:Accepted - • Metro: 5604310
+INFO:root:Accepted - Postal code: 650000
+INFO:root:Population: 8460088
+INFO:root:Site: https://en.wikipedia.org/wiki/Shangrao
+INFO:root:Accepted - • Prefecture-level city: 6491088
+INFO:root:Accepted - • Urban: 2068763
+INFO:root:Accepted - • Metro: 1293399
+INFO:root:Population: 6491088
+INFO:root:Site: https://en.wikipedia.org/wiki/Hangzhou
+INFO:root:Accepted - • Prefecture-level and sub-provincial city: 11936010
+INFO:root:Accepted - • Urban: 10711238
+INFO:root:Accepted - • Metro: 13035329
+INFO:root:Accepted - Postal code: 310000
+INFO:root:Population: 11936010
+INFO:root:Site: https://en.wikipedia.org/wiki/Bijie
+INFO:root:Accepted - • Total: 6536370
+INFO:root:Accepted - Postal code: 551700
+INFO:root:Population: 6536370
+INFO:root:Site: https://en.wikipedia.org/wiki/Quanzhou
+INFO:root:Accepted - • Prefecture-level city: 8782285
+INFO:root:Accepted - • Urban: 1728386
+INFO:root:Accepted - • Metro: 6669711
+INFO:root:Accepted - Postal code: 362000
+INFO:root:Population: 8782285
+INFO:root:Site: https://en.wikipedia.org/wiki/Miami
+INFO:root:Accepted - • Total: 442241
+INFO:root:Accepted - • Estimate (2021)[6]: 439890
+INFO:root:Accepted - • Urban[7]: 6077522
+INFO:root:Accepted - • Metro[8]: 6091747
+INFO:root:Accepted - GNIS feature ID: 277593
+INFO:root:Population: 6091747
+INFO:root:Site: https://en.wikipedia.org/wiki/Wuxi
+INFO:root:Accepted - • Prefecture-level city: 7462135
+INFO:root:Accepted - • Urban: 4396835
+INFO:root:Accepted - • Metro: 4396835
+INFO:root:Population: 7462135
+INFO:root:Site: https://en.wikipedia.org/wiki/Huanggang
+INFO:root:Accepted - • Prefecture-level city: 5882719
+INFO:root:Accepted - • Urban: 456862
+INFO:root:Accepted - • Metro: 1152559
+INFO:root:Population: 5882719
+INFO:root:Site: https://en.wikipedia.org/wiki/Maoming
+INFO:root:Accepted - • Prefecture-level city: 6174050
+INFO:root:Accepted - • Urban: 2539148
+INFO:root:Accepted - • Metro: 2539148
+INFO:root:Accepted - Postal code: 525000
+INFO:root:Population: 6174050
+INFO:root:Site: https://en.wikipedia.org/wiki/Nanchong
+INFO:root:Accepted - • Prefecture-level city: 5607565
+INFO:root:Accepted - • Urban: 1936534
+INFO:root:Accepted - • Metro: 1936534
+INFO:root:Accepted - Postal code: 637000
+INFO:root:Population: 5607565
+INFO:root:Site: https://en.wikipedia.org/wiki/Zunyi
+INFO:root:Accepted - • Prefecture-level city: 6606675
+INFO:root:Accepted - • Urban: 2360549
+INFO:root:Accepted - • Metro: 2360549
+INFO:root:Accepted - Postal code: 563000
+INFO:root:Population: 6606675
+INFO:root:Site: https://en.wikipedia.org/wiki/Qujing
+INFO:root:Accepted - • Prefecture-level city: 6155400
+INFO:root:Accepted - • Urban: 1432500
+INFO:root:Accepted - • Metro: 1432500
+INFO:root:Accepted - Postal code: 655000
+INFO:root:Population: 6155400
+INFO:root:Site: https://en.wikipedia.org/wiki/Baghdad
+INFO:root:Population: None
+INFO:root:Site: https://en.wikipedia.org/wiki/Baghdad
+INFO:root:Population: None
+INFO:root:Site: http://en.wikipedia.org/wiki/Iraq
+INFO:root:Accepted - • Total: 438317
+INFO:root:Population: 438317
+INFO:root:Site: https://en.wikipedia.org/wiki/Xinyang
+INFO:root:Accepted - • Prefecture-level city: 6234401
+INFO:root:Accepted - • Urban: 1416800
+INFO:root:Accepted - • Metro: 1416800
+INFO:root:Population: 6234401
+INFO:root:Site: https://en.wikipedia.org/wiki/Jieyang
+INFO:root:Accepted - • Prefecture-level city: 5877025
+INFO:root:Accepted - • Urban: 741674
+INFO:root:Population: 5877025
+INFO:root:Site: https://en.wikipedia.org/wiki/Khartoum
+INFO:root:Accepted - • Capital city: 639598
+INFO:root:Accepted - • Urban: 6017000
+INFO:root:Accepted - • Metro: 5274321
+INFO:root:Population: 5274321
+INFO:root:Site: https://en.wikipedia.org/wiki/Madrid
+INFO:root:Accepted - • Capital city and municipality: 3223334
+INFO:root:Population: 3223334
+INFO:root:Site: https://en.wikipedia.org/wiki/Allahabad
+INFO:root:Accepted - • Total: 1536218
+INFO:root:Population: 1536218
+INFO:root:Site: https://en.wikipedia.org/wiki/Yulin,_Guangxi
+INFO:root:Accepted - • Prefecture-level city: 5796766
+INFO:root:Accepted - • Urban: 1226830
+INFO:root:Accepted - • Metro: 2438467
+INFO:root:Accepted - Postal code: 537000
+INFO:root:Population: 5796766
+INFO:root:Site: https://en.wikipedia.org/wiki/Changde
+INFO:root:Accepted - • Prefecture-level city: 5279102
+INFO:root:Accepted - • Urban: 1469055
+INFO:root:Accepted - • Metro: 1469055
+INFO:root:Accepted - Postal code: 415000
+INFO:root:Population: 5279102
+INFO:root:Site: https://en.wikipedia.org/wiki/Liaocheng
+INFO:root:Accepted - • Prefecture-level city: 5952128
+INFO:root:Accepted - • Urban: 1229768
+INFO:root:Accepted - • Metro: 1229768
+INFO:root:Population: 5952128
+INFO:root:Site: https://en.wikipedia.org/wiki/Qingdao
+INFO:root:Accepted - • Prefecture-level and Sub-provincial city: 10071722
+INFO:root:Accepted - • Urban: 7172451
+INFO:root:Accepted - • Metro: 7172451
+INFO:root:Accepted - Postal code: 266000
+INFO:root:Population: 10071722
+INFO:root:Site: https://en.wikipedia.org/wiki/Dallas
+INFO:root:Accepted - • City: 1304379
+INFO:root:Accepted - • Estimate (2021): 1288457
+INFO:root:Accepted - • Urban[5]: 5732354
+INFO:root:Accepted - • Metro[6]: 7637387
+INFO:root:Population: 7637387
+INFO:root:Site: https://en.wikipedia.org/wiki/Xinxiang
+INFO:root:Accepted - • Prefecture-level city: 6251929
+INFO:root:Accepted - • Urban: 1179400
+INFO:root:Accepted - • Metro: 2743200
+INFO:root:Population: 6251929
+INFO:root:Site: https://en.wikipedia.org/wiki/Xiangyang
+INFO:root:Accepted - • Prefecture-level city: 5260951
+INFO:root:Accepted - • Urban: 2319640
+INFO:root:Accepted - • Metro: 2319640
+INFO:root:Population: 5260951
+INFO:root:Site: https://en.wikipedia.org/wiki/Philadelphia
+INFO:root:Accepted - • Consolidated city-county: 1603797
+INFO:root:Accepted - • Estimate (2021)[8]: 1576251
+INFO:root:Accepted - • Urban[9]: 5696125
+INFO:root:Accepted - • Metro[10]: 6245051
+INFO:root:Population: 6245051
+INFO:root:Site: https://en.wikipedia.org/wiki/Giza
+INFO:root:Accepted - • Total: 4367343
+INFO:root:Population: 4367343
+INFO:root:Site: https://en.wikipedia.org/wiki/Lu%27an
+INFO:root:Accepted - • Prefecture-level city: 4393699
+INFO:root:Accepted - • Urban: 1968766
+INFO:root:Accepted - • Metro: 1752537
+INFO:root:Accepted - Administrative division code: 341500
+INFO:root:Population: 4393699
+INFO:root:Site: https://en.wikipedia.org/wiki/Zhaotong
+INFO:root:Accepted - GB/T 2260: 530600
+INFO:root:Accepted - • Prefecture-level city: 5213533
+INFO:root:Accepted - • Urban: 352831
+INFO:root:Accepted - Postal code: 657000
+INFO:root:Population: 5213533
+INFO:root:Site: https://en.wikipedia.org/wiki/Yichun,_Heilongjiang
+INFO:root:Accepted - • Prefecture-level city: 1148126
+INFO:root:Accepted - • Urban: 598000
+INFO:root:Accepted - • Metro: 729202
+INFO:root:Accepted - ZIP code: 153000
+INFO:root:Population: 1148126
+INFO:root:Site: https://en.wikipedia.org/wiki/Dezhou
+INFO:root:Accepted - • Prefecture-level city: 5748500
+INFO:root:Accepted - • Urban: 986192
+INFO:root:Accepted - • Metro: 986192
+INFO:root:Population: 5748500
+INFO:root:Site: https://en.wikipedia.org/wiki/Nairobi
+INFO:root:Accepted - • Consolidated city-county: 4397073
+INFO:root:Accepted - • Urban: 4397073
+INFO:root:Accepted - • Metro: 10400676
+INFO:root:Population: 10400676
+INFO:root:Site: https://en.wikipedia.org/wiki/Nanchang
+INFO:root:Accepted - • Prefecture-level city: 6255007
+INFO:root:Accepted - • Urban: 3929660
+INFO:root:Accepted - • Metro: 5382162
+INFO:root:Accepted - Postal code: 330000
+INFO:root:Population: 6255007
+INFO:root:Site: https://en.wikipedia.org/wiki/Tai%27an
+INFO:root:Accepted - • Prefecture-level city: 5635000
+INFO:root:Accepted - • Urban: 1735425
+INFO:root:Accepted - • Metro: 1735425
+INFO:root:Population: 5635000
+INFO:root:Site: https://en.wikipedia.org/wiki/Dazhou
+INFO:root:Accepted - • Prefecture-level city: 5385422
+INFO:root:Accepted - • Urban: 1850869
+INFO:root:Accepted - • Metro: 1850869
+INFO:root:Accepted - Postal code: 635000
+INFO:root:Accepted - Administrative division code: 511700
+INFO:root:Population: 5385422
+INFO:root:Site: https://en.wikipedia.org/wiki/Houston
+INFO:root:Accepted - • City: 2304580
+INFO:root:Accepted - • Estimate (2021)[2]: 2288250
+INFO:root:Accepted - • Urban[3]: 5853575
+INFO:root:Accepted - • Metro[4]: 7122240
+INFO:root:Population: 7122240
+INFO:root:Site: https://en.wikipedia.org/wiki/Guadalajara
+INFO:root:Accepted - • City & municipality: 1385629
+INFO:root:Accepted - • Metro: 5286642
+INFO:root:Population: 5286642
+INFO:root:Site: https://en.wikipedia.org/wiki/Yongzhou
+INFO:root:Accepted - • Prefecture-level city: 5289824
+INFO:root:Accepted - • Urban: 1146692
+INFO:root:Accepted - • Metro: 1146692
+INFO:root:Accepted - Postal code: 425000
+INFO:root:Population: 5289824
+INFO:root:Site: https://en.wikipedia.org/wiki/Atlanta
+INFO:root:Accepted - • State capital: 498715
+INFO:root:Accepted - • Estimate (2021)[8]: 496461
+INFO:root:Accepted - • Urban[9]: 4999259
+INFO:root:Accepted - • Metro[10]: 6144050
+INFO:root:Population: 6144050
+INFO:root:Site: https://en.wikipedia.org/wiki/Yangon
+INFO:root:Accepted - • Urban[2]: 5160512
+INFO:root:Accepted - • Rural: 2200191
+INFO:root:Accepted - • Metro[3]: 7360703
+INFO:root:Population: 7360703
+INFO:root:Site: https://en.wikipedia.org/wiki/Toronto
+INFO:root:Accepted - • City: 2794356
+INFO:root:Accepted - • Metro: 6202225
+INFO:root:Accepted - • Region: 9765188
+INFO:root:Population: 6202225
+INFO:root:Site: https://en.wikipedia.org/wiki/Suihua
+INFO:root:Accepted - • Prefecture-level city: 3756167
+INFO:root:Accepted - • Urban: 698025
+INFO:root:Accepted - • Metro: 698025
+INFO:root:Accepted - Postal code: 152000
+INFO:root:Population: 3756167
+INFO:root:Site: https://en.wikipedia.org/wiki/Saint_Petersburg
+INFO:root:Accepted - • Estimate (2018)[6]: 5351935
+INFO:root:Accepted - OKTMO ID: 40000000
+INFO:root:Population: 5351935
+INFO:root:Site: https://en.wikipedia.org/wiki/Washington_(state)
+INFO:root:Population: None
+INFO:root:Site: https://en.wikipedia.org/wiki/Washington_(state)
+INFO:root:Population: None
+INFO:root:Site: http://en.wikipedia.org/wiki/Olympia,_Washington
+INFO:root:Accepted - • Urban: 208157
+INFO:root:Accepted - • Metro: 297977
+INFO:root:Population: 297977
