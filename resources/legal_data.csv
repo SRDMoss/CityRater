@@ -1,0 +1,164 @@
+country,long_guns,handguns,automatics,open_carry,concealed_carry,registration,same_sex_sexual_activity,same_sex_unions,same_sex_marriage,same_sex_adoption,open_in_military,anti_disc_laws,gender_positive_laws,no_anti_lgbt_laws,risk_to_life,risk_to_health,rape,fetal_impairment,economic_social,on_request
+Afghanistan,Yes,Restricted,Restricted,Restricted,Restricted,Yes,Death,No,No,No,No,No,No,No,0,1000,1000,1000,1000,1000
+Albania,Yes,Restricted,Yes,No,Restricted,Yes,Legal,No,No,No,Yes,Yes,No,No,22,22,22,0,22,12
+Algeria,Restricted,No,No,Yes,No,No,Illegal,No,No,No,No,No,No,No,0,0,1000,1000,1000,1000
+Angola,Restricted,Restricted,Restricted,Restricted,Restricted,No,Legal,No,No,No,No,Yes,Maybe,Yes,0,0,16,0,1000,1000
+Argentina,Yes,Yes,No,No,No,Yes,Legal,Yes,Yes,Yes,Yes,Regional,Excellent,Yes,0,0,0,14,14,14
+Armenia,Yes,No,Yes,No,No,Yes,Legal,No,Ban,No,No,No,No,No,0,0,0,0,22,14
+Australia,Yes,Restricted,Restricted,No,No,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Surgery,Yes,0,0,0,0,0,0
+Austria,Restricted,Yes,Yes,Restricted,Restricted,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,12,0,12,12
+Azerbaijan,Yes,No,No,No,No,Yes,Legal,No,Ban,No,No,No,No,No,0,0,0,0,22,12
+Bahrain,Yes,Yes,Yes,No,No,Yes,Legal,No,No,No,No,No,Surgery,No,0,1000,1000,1000,1000,1000
+Bangladesh,Up to one,Restricted,No,No,Restricted,Yes,Illegal,No,No,No,No,No,Yes,No,0,1000,1000,1000,1000,1000
+Barbados,Yes,Yes,Yes,Yes,Yes,Yes,Legal,Some,No,No,N,Some,No,No,0,0,12,0,12,1000
+Belarus,Yes,No,Yes,No,No,No,Legal,No,Ban,No,Wartime,No,No,No,0,0,22,0,22,12
+Belgium,Yes,Yes,Yes,No,Restricted,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,14,0,14,14
+Benin,Restricted,Restricted,Restricted,No,No,Yes,Legal,No,No,No,No,No,No,No,0,0,0,0,12,1000
+Bhutan,Restricted,Restricted,Yes,Yes,Yes,Yes,Legal,No,No,No,No,No,No,No,26,26,26,26,1000,1000
+Bolivia,Yes,Yes,Yes,,Restricted,Yes,Legal,Yes,Ban,Yes,Yes,Yes,Yes,No,22,22,22,22,1000,1000
+Bosnia And Herzegovina,Yes,Yes,Yes,Yes,Yes,Yes,Legal,No,No,No,Yes,Yes,Surgery,No,0,0,0,0,0,10
+Botswana,No,No,No,No,No,Yes,Legal,No,No,No,LGBOnly,Yes,Yes,Yes,16,16,16,16,1000,1000
+Brazil,Yes,Yes,Yes,No,Restricted,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Excellent,Yes,22,1000,22,1000,1000,1000
+Bulgaria,Yes,Yes,Yes,,Restricted,Yes,Yes,No,Ban,No,Yes,Yes,No,No,0,20,0,0,12,12
+Burkina Faso,No,No,No,No,No,Yes,Legal,No,Ban,No,No,No,No,No,0,0,14,0,1000,1000
+Burundi,Yes,Yes,No,Restricted,No,Yes,Illegal,No,Ban,No,No,No,No,No,0,0,1000,1000,1000,1000
+Cabo Verde,Yes,Yes,Yes,No,Yes,Yes,Legal,No,No,No,No,Some,No,No,0,0,12,0,12,12
+Cambodia,No,No,No,No,No,Yes,Legal,Regional,No,No,No,No,No,No,0,12,0,0,12,12
+Cameroon,Yes,Yes,Yes,Yes,Yes,Yes,Illegal,No,No,No,No,No,No,No,0,28,28,1000,1000,1000
+Canada,Yes,No,Yes,Restricted,Restricted,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,0,0,0,0
+Central African Republic,Yes,No,Yes,Yes,Yes,No,Legal,No,Ban,No,No,No,No,No,8,1000,8,8,1000,1000
+Chad,Restricted,Restricted,Restricted,No,No,No,Illegal,No,No,No,No,No,No,No,0,0,0,0,1000,1000
+Chile,Yes,Yes,Yes,Restricted,Restricted,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,1000,12,0,1000,1000
+China,Restricted,No,No,No,No,Yes,Legal,Yes,No,No,Closet,No,Surgery,No,0,0,0,0,0,0
+Colombia,Yes,Yes,Restricted,No,No,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,0,0,24,24
+Comoros,No,No,No,No,No,Yes,Illegal,No,No,No,No,No,No,No,0,0,1000,1000,1000,1000
+Congo (Brazzaville),Yes,Yes,Yes,Restricted,Restricted,No,Legal,No,No,No,No,No,No,No,0,1000,1000,1000,1000,1000
+Congo (Kinshasa),Yes,Yes,Yes,Yes,Yes,Yes,Legal,No,Ban,No,No,No,No,No,0,0,0,0,1000,1000
+Costa Rica,Yes,Yes,Yes,No,Yes,Yes,Legal,Yes,Yes,Yes,NA,Yes,Some,Yes,0,0,1000,1000,1000,1000
+Croatia,Yes,Yes,Yes,No,Yes,Yes,Legal,Yes,Ban,Yes,Yes,Yes,Some,No,0,0,0,0,10,10
+Cuba,Yes,Yes,Yes,No,Restricted,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Surgery,Yes,0,22,0,35,22,12
+Cyprus,Yes,No,No,Restricted,No,Yes,Legal,Yes,No,No,Yes,Some,No,No,0,0,19,0,12,12
+Czechia,Yes,Yes,Yes,No,Yes,Yes,Legal,Yes,No,No,Yes,Yes,Surgery,No,0,0,12,0,12,12
+Denmark,Yes,Yes,Yes,No,No,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,0,0,0,12
+Djibouti,Restricted,Yes,Yes,Yes,Yes,No,Legal,No,No,No,No,No,No,No,0,0,1000,1000,1000,1000
+Dominican Republic,Restricted,Yes,No,Yes,Yes,Yes,Legal,No,Ban,No,No,No,No,No,1000,1000,1000,1000,1000,1000
+Ecuador,Yes,Yes,Yes,No,Restricted,Yes,Legal,Yes,Yes,No,No,Yes,Yes,Yes,0,0,0,1000,1000,1000
+Egypt,Yes,Yes,Yes,Maybe,Yes,Yes,Illegal,No,No,No,No,No,No,No,0,0,1000,1000,1000,1000
+El Salvador,Yes,Yes,Yes,Yes,Yes,Yes,Legal,No,No,No,Yes,Yes,Some,Yes,1000,1000,1000,1000,1000,1000
+Eritrea,No,No,No,No,No,Yes,Illegal,No,No,No,No,No,No,No,0,0,0,1000,1000,1000
+Estonia,Yes,Yes,Yes,No,Restricted,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,22,22,12,22,12,12
+Ethiopia,Restricted,Yes,No,No,Yes,Yes,Illegal,No,No,No,No,No,No,No,28,28,28,28,1000,1000
+Finland,Yes,Yes,Yes,No,No,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,20,24,20,12
+France,Yes,Yes,Yes,No,Restricted,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,16,0,16,16
+Gabon,No,No,No,No,No,Yes,Legal,No,No,No,No,No,No,No,10,1000,10,10,1000,1000
+The Gambia,Yes,Restricted,Restricted,Maybe,Yes,Yes,Illegal,No,No,No,No,No,Anti,No,0,1000,1000,0,1000,1000
+Georgia,Yes,Yes,Yes,Yes,Yes,Yes,Legal,No,Ban,No,No,Yes,Sterilization,No,22,22,22,22,12,12
+Germany,Yes,Yes,Yes,No,No,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,12,12,12,12
+Ghana,Yes,Yes,No,No,Yes,Yes,Mixed,No,No,No,No,No,No,No,28,28,28,28,1000,1000
+Greece,Yes,Yes,Yes,Yes,Yes,Yes,Legal,Yes,Yes,Yes,Yes,Yes,No,No,0,0,19,24,12,12
+Guatemala,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,0,1000,1000,1000,1000,1000
+Guinea,Restricted,Restricted,No,Restricted,No,Yes,Illegal,No,No,No,No,No,No,No,0,0,0,0,1000,1000
+Guinea-Bissau,No,No,No,No,No,Yes,Legal,No,No,No,No,No,No,No,0,0,0,0,0,0
+Guyana,Yes,Yes,Yes,Maybe,Yes,Yes,Illegal,No,No,No,Yes,No,No,No,0,0,16,16,8,8
+Haiti,Restricted,Restricted,Restricted,No,Restricted,No,Legal,No,No,No,NA,No,No,No,0,1000,1000,1000,1000,1000
+Honduras,Yes,Yes,Yes,No,No,Yes,Legal,Ban,Ban,Ban,No,Yes,No,No,1000,1000,1000,1000,1000,1000
+Hungary,Restricted,Restricted,Restricted,Restricted,Restricted,Yes,Legal,Yes,Ban,Ban,Yes,Yes,No,No,0,12,12,20,12,1000
+Iceland,Yes,Yes,Restricted,Restricted,No,Yes,Legal,Yes,Yes,Yes,NA,Yes,Yes,Yes,0,0,0,0,0,22
+India,Yes,Yes,Restricted,No,Yes,Yes,Legal,Yes,No,No,No,Some,Medical,Yes,0,24,24,24,24,1000
+Indonesia,Restricted,Restricted,Restricted,Restricted,Restricted,Yes,Legal,No,No,No,Closet,Some,Surgery,No,0,0,14,0,1000,1000
+Iran,Yes,Yes,Yes,Yes,Yes,Yes,Death,No,No,No,No,No,Medical,No,16,16,1000,16,1000,1000
+Iraq,Restricted,Yes,Yes,Maybe,Restricted,Yes,Illegal,No,No,No,No,No,No,No,0,1000,1000,1000,1000,1000
+Ireland,Yes,Restricted,Restricted,No,No,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,24,24,12,24,12,12
+Israel,Yes,Yes,Yes,Restricted,Restricted,Yes,Legal,Yes,Foreign,No,Yes,Yes,Yes,Yes,0,0,0,0,0,1000
+Italy,Yes,Yes,Yes,No,No,Yes,Legal,Yes,No,No,Yes,Some,Yes,Yes,0,24,13,13,13,13
+Jamaica,Yes,Yes,Yes,Maybe,Yes,Yes,Mixed,No,Ban,No,No,No,No,No,0,0,1000,1000,1000,1000
+Japan,Restricted,No,No,No,No,Yes,Legal,Regional,No,No,Yes,Regional,Surgery,No,22,22,22,1000,22,1000
+Jordan,Yes,Yes,Yes,Restricted,Restricted,No,Legal,No,No,No,No,No,Yes,No,0,0,1000,1000,1000,1000
+Kazakhstan,Yes,No,Yes,Restricted,No,Yes,Legal,No,No,No,Yes,No,Yes,No,0,0,22,0,22,12
+Kenya,Yes,Yes,Restricted,No,Restricted,Yes,Illegal,No,Ban,No,No,Some,Yes,No,0,0,0,1000,1000,1000
+Kuwait,Yes,Restricted,Restricted,Yes,Yes,Yes,Mixed,No,No,No,No,No,No,No,0,16,1000,16,1000,1000
+Kyrgyzstan,Yes,No,Yes,No,No,Yes,Legal,No,Ban,No,No,No,Surgery,No,0,0,22,22,22,12
+Laos,Restricted,Restricted,Restricted,No,No,Yes,Legal,No,No,No,No,No,No,No,0,28,28,28,28,1000
+Latvia,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Ban,No,Yes,Some,Surgery,No,0,24,12,12,12,12
+Lebanon,Restricted,Restricted,Restricted,Yes,Yes,No,Illegal,No,No,No,No,No,Surgery,No,0,1000,1000,1000,1000,1000
+Lesotho,Yes,Yes,No,Restricted,Restricted,Yes,Legal,No,No,No,No,No,Maybe,No,0,0,0,0,1000,1000
+Liberia,Restricted,No,No,Restricted,No,Yes,Illegal,No,No,No,No,No,No,No,24,24,24,24,1000,1000
+Libya,Yes,Yes,Yes,Yes,Yes,No,Illegal,No,No,No,No,No,No,No,0,1000,1000,1000,1000,1000
+Lithuania,Yes,Yes,Yes,No,Restricted,Yes,Yes,No,No,No,Yes,Yes,Yes,No,0,0,12,0,12,12
+Luxembourg,Restricted,Restricted,Restricted,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,14,0,14,14
+Macedonia,Yes,Yes,Yes,No,No,Yes,Legal,No,No,No,Yes,Yes,Yes,No,0,0,22,22,22,12
+Madagascar,Yes,Yes,Yes,Yes,Yes,No,Legal,No,No,No,No,No,No,No,1000,1000,1000,1000,1000,1000
+Malawi,Yes,Yes,Yes,Restricted,Yes,Yes,Illegal,No,No,No,No,No,No,No,0,1000,1000,1000,1000,1000
+Malaysia,Restricted,Restricted,Restricted,Restricted,Restricted,Yes,Illegal,No,No,No,No,No,No,No,22,22,1000,1000,1000,1000
+Maldives,No,No,No,No,No,Yes,Illegal,No,No,No,No,No,No,No,0,1000,17,17,1000,1000
+Mali,No,No,No,No,No,Yes,Legal,No,Ban,No,No,No,No,No,0,0,0,1000,1000,1000
+Mauritania,Yes,Yes,Yes,Restricted,Yes,Yes,Death,No,No,No,No,No,No,No,0,1000,1000,1000,1000,1000
+Mauritius,Yes,Yes,Yes,Restricted,Yes,No,Legal,No,No,No,No,Yes,No,No,0,0,14,0,1000,1000
+Mexico,Yes,Yes,Yes,Restricted,Restricted,Yes,Legal,Yes,Yes,Regional,No,Yes,Regional,Yes,0,0,0,0,0,0
+Moldova,Yes,Yes,Yes,No,No,Yes,Legal,No,Ban,No,Yes,Yes,Yes,No,21,21,21,21,21,12
+Mongolia,Yes,Yes,Yes,Restricted,Yes,Yes,Legal,No,Ban,No,No,Some,Surgery,No,23,23,0,0,14,14
+Montenegro,Yes,,Restricted,Yes,Yes,Yes,Legal,Yes,Ban,No,Yes,Yes,Surgery,No,32,32,20,20,10,10
+Morocco,Restricted,Restricted,Restricted,Restricted,Restricted,No,Illegal,No,No,No,No,No,No,No,0,0,1000,1000,1000,1000
+Mozambique,Restricted,Restricted,Restricted,Restricted,Restricted,Yes,Legal,No,No,No,No,Some,No,Yes,0,0,16,24,12,12
+Myanmar,Restricted,No,No,No,No,Yes,Illegal,No,No,No,No,No,No,No,0,1000,1000,1000,1000,1000
+Namibia,Yes,Yes,Yes,No,Yes,Yes,Mixed,Foreign,Foreign,No,No,Some,Yes,No,0,0,0,0,1000,1000
+Nepal,Restricted,Restricted,No,Restricted,Yes,Yes,Legal,No,No,No,Yes,No,Partial,Yes,28,28,28,28,12,12
+Netherlands,Yes,Yes,Yes,No,No,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,24,0,24,24
+New Zealand,Yes,Yes,Restricted,No,No,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,0,0,0,20
+Nicaragua,Yes,Yes,Yes,No,Yes,Yes,Legal,No,No,No,No,Yes,No,No,1000,1000,1000,1000,1000,1000
+Niger,Restricted,Restricted,Restricted,Restricted,Restricted,Yes,Legal,No,No,No,No,No,No,No,0,0,1000,0,1000,1000
+Nigeria,Restricted,No,No,Maybe,No,Yes,Death,No,Ban,No,No,No,Anti,No,0,1000,1000,1000,1000,1000
+Norway,Yes,Yes,No,No,No,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,22,22,22,12
+Oman,Yes,Yes,Yes,No,No,Yes,Illegal,No,No,No,No,No,Anti,No,0,0,1000,17,1000,1000
+Pakistan,Yes,Yes,Restricted,No,Yes,Yes,Illegal,No,No,No,No,TransOnly,Yes,No,0,8,1000,1000,1000,1000
+Panama,Yes,Yes,Yes,No,Yes,Yes,Legal,No,No,No,NA  ,Some,Medical,No,0,1000,8,24,1000,1000
+Papua New Guinea,No,No,No,No,No,Yes,Mixed,No,No,No,No,No,No,No,0,1000,1000,1000,1000,1000
+Paraguay,Yes,Yes,Yes,Restricted,Restricted,Yes,Legal,Ban,Ban,No,Yes,Yes,No,No,0,1000,1000,1000,1000,1000
+Peru,Yes,Yes,Yes,Yes,Restricted,Yes,Legal,Some,No,No,Yes,Yes,Yes,No,22,22,1000,1000,1000,1000
+Philippines,Yes,Yes,Yes,Yes,Yes,Yes,Legal,No,No,No,Yes,Some,No,No,1000,1000,1000,1000,1000,1000
+Poland,Restricted,Restricted,Yes,No,Restricted,Yes,Legal,No,Ban,No,Yes,Yes,Medical,No,0,0,13,1000,1000,1000
+Portugal,Yes,Yes,Yes,No,Restricted,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,16,24,10,10
+Qatar,Restricted,Restricted,Restricted,No,No,No,Death,No,No,No,No,No,No,No,0,16,1000,16,1000,1000
+Romania,Yes,No,Yes,No,Restricted,Yes,Legal,Some,No,No,Yes,Yes,Surgery,No,0,0,0,0,0,14
+Russia,Yes,Yes,Yes,No,Restricted,Yes,Legal,No,Ban,No,Yes,No,No,No,0,0,22,0,12,12
+Rwanda,Yes,Yes,Yes,Restricted,Yes,Yes,Legal,No,Ban,No,No,No,No,No,0,0,22,0,1000,1000
+Saudi Arabia,Yes,Yes,Yes,Yes,Yes,No,Death,No,No,No,No,No,Anti,No,0,16,6,6,1000,1000
+Senegal,Yes,Yes,Yes,Yes,Yes,Yes,Illegal,No,No,No,No,No,No,No,0,1000,1000,1000,1000,1000
+Serbia,Yes,Yes,Yes,No,No,Yes,Legal,No,Ban,No,Yes,Yes,Medical,No,0,0,0,0,10,10
+Sierra Leone,Yes,Yes,Yes,Restricted,Yes,Yes,Mixed,No,No,No,No,No,No,No,0,0,1000,1000,1000,1000
+Singapore,Restricted,Restricted,Restricted,Restricted,Restricted,Yes,Legal,No,No,No,Yes,Yes,Surgery,No,0,0,24,24,24,24
+Slovakia,Yes,Yes,Yes,No,Restricted,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,12,0,12,12
+Slovenia,Yes,Yes,Yes,Restricted,Restricted,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,10,10,10,10
+Somalia,No,No,No,No,No,No,Death,No,No,No,No,No,No,No,0,1000,1000,1000,1000,1000
+South Africa,Yes,Yes,Yes,No,Restricted,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,20,20,0,20,12
+South Korea,Yes,No,Restricted,No,No,Yes,Legal,No,No,No,N,Regional,Surgery,No,0,24,24,0,0,0
+South Sudan,Permitless,Yes,No,No,Yes,No,Illegal,No,Ban,No,No,No,Anti,No,0,1000,1000,1000,1000,1000
+Spain,Yes,Yes,Yes,No,Restricted,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,22,22,14,22,14,14
+Sri Lanka,Yes,Yes,Yes,Yes,Yes,Yes,Illegal,No,No,No,No,No,Medical,No,0,1000,1000,1000,1000,1000
+Sudan,Restricted,Restricted,Restricted,Restricted,Restricted,Yes,Illegal,No,No,No,No,No,No,No,0,1000,13,1000,1000,1000
+Suriname,Yes,Restricted,Restricted,No,No,Yes,Legal,No,No,No,N,Yes,Yes,Yes,0,1000,1000,1000,1000,1000
+Sweden,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,18,18,18,18
+Switzerland,Yes,Yes,Yes,Restricted,Restricted,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,12,12,12,12
+Syria,Restricted,Restricted,No,No,No,Yes,Illegal,No,No,No,No,No,No,No,0,1000,1000,1000,1000,1000
+Taiwan,Restricted,Restricted,Restricted,Yes,Yes,No,Legal,Yes,Yes,Yes,Yes,Yes,Surgery,Yes,0,0,24,0,24,1000
+Tajikistan,Yes,No,Yes,No,No,Yes,Legal,No,No,No,No,No,Surgery,No,0,22,22,22,22,12
+Tanzania,Yes,Yes,No,Restricted,Yes,Yes,Illegal,No,No,No,No,No,No,No,0,0,1000,1000,1000,1000
+Thailand,Yes,Yes,Yes,No,Yes,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Surgery,No,0,0,0,0,20,20
+The Bahamas,Yes,Yes,Restricted,Yes,Yes,Yes,Legal,No,No,No,Yes,No,No,No,0,0,1000,1000,1000,1000
+Togo,Restricted,No,No,No,No,Yes,Illegal,No,No,No,No,No,No,No,0,0,0,0,1000,1000
+Tunisia,Restricted,No,No,No,No,No,Illegal,No,No,No,No,No,No,No,0,0,12,0,12,12
+Turkey,Yes,Yes,No,No,Restricted,Yes,Legal,No,No,No,No,No,PostOp/Sterilization,No,0,10,20,0,10,10
+Turkmenistan,Yes,No,No,No,No,Yes,Illegal,No,No,No,No,No,No,No,0,0,0,0,22,5
+Uganda,Restricted,Restricted,Restricted,No,Restricted,Yes,Death,No,Ban,No,No,No,No,No,28,28,28,28,1000,1000
+Ukraine,Yes,Restricted,Yes,Restricted,No,Yes,Legal,No,Ban,No,Yes,Some,Yes,No,22,22,22,22,12,12
+United Arab Emirates,Yes,Yes,Yes,No,Yes,No,Death,No,No,No,No,No,Anti,No,0,1000,1000,1000,1000,1000
+United Kingdom,Yes,No,Restricted,Restricted,No,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,0,0,24,1000
+United States,Yes,Yes,Yes,Yes,Yes,No,Legal,Yes,Yes,Yes,Mixed,Some,Regional,Regional,0,1000,1000,1000,1000,1000
+Uruguay,Yes,Yes,Yes,No,Yes,Yes,Legal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,14,0,12,12
+Uzbekistan,Restricted,No,Restricted,No,No,Yes,Illegal,No,No,No,No,No,No,No,0,22,22,22,22,12
+Venezuela,Restricted,Restricted,Restricted,No,No,Yes,Legal,Ban,Ban,No,Yes,Some,No,No,22,1000,1000,1000,1000,1000
+Vietnam,Restricted,No,Restricted,No,No,Yes,Legal,No,No,No,Yes,Some,Yes,Yes,0,0,0,0,0,22
+Yemen,Yes,Yes,Yes,Yes,Yes,No,Death,No,No,No,No,No,No,No,0,1000,1000,1000,1000,1000
+Zambia,Yes,Yes,Yes,Yes,Yes,Yes,Illegal,No,No,No,No,No,No,No,0,0,0,0,0,1000
+Zimbabwe,Yes,Yes,Yes,Yes,Yes,Yes,Illegal,No,No,No,No,No,No,No,22,22,22,22,1000,1000
+Puerto Rico,Yes,Yes,Yes,No,Yes,Yes,Illegal,No,Ban,No,No,No,No,No,0,1000,1000,1000,1000,1000
