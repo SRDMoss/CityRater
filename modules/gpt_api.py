@@ -9,8 +9,7 @@ def log_error(message, city_doc):
     with open(log_file_path, 'a', encoding='utf-8') as log_file:  # Specify UTF-8 encoding
         log_file.write(f"{message} - Document ID: {city_doc['_id']}, City: {city_doc['city']}, Admin: {city_doc['admin']}, ISO3: {city_doc['iso3']}\n")
 
-# for city_doc in generate_cities():
-
+for city_doc in generate_cities():
     city_name, admin_name, iso3 = city_doc['city'], city_doc['admin'], city_doc['iso3']
 
     try:
